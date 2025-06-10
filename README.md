@@ -1,7 +1,9 @@
 # Implementing-Iris-Classification-using-a-QUBO-model-with-D-Wave-s-Ocean-SDK
-A project on optimal dataset clustering for machine learning training, formulated as a Quadratic Unconstrained Binary Optimization (QUBO) problem and solved using Quantum Annealing and Simulated Quantum Annealing on a D-Wave quantum computer using Ocean SDK. 
+A project on optimal dataset clustering for machine learning training, formulated as a Quadratic Unconstrained Binary Optimization (QUBO) problem and solved using Quantum Annealing and Simulated Quantum Annealing on a D-Wave quantum computer using Ocean SDK. This is part of a course at Paris-Saclay University, taught by Jean Sennellart, Chief Product Officer at Quandela, in collaboration with the company.
 
-Language: Python
+**Score**: 19/20 (Highest)
+
+**Language**: Python
 
 ◦ Defined a QUBO problem to minimize intra-cluster distances, with two penalties: one enforcing single-cluster membership per point and the other ensuring balanced cluster sizes.
 
